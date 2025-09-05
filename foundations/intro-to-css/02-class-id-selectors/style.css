@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.classElement {
+    background-color: #b94274;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#number2 { 
+    color: #0b466e;
+    font-size: 36px;
+}
+
+.classElement#number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: #45c570;
+    font-size: 24px;
+}
